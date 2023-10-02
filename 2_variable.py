@@ -83,3 +83,22 @@ print(a + b, a - b, a * b, a / b, a // b, a % b, a**b)
 a = 7
 b = 3
 print(a // b, a % b, a**b)
+
+# 정리하기 02
+a = 1 + 2 - 3 * 4
+print(a)
+
+# 정리하기 03
+a = (1 + 2 - 3) * 4
+print(a)
+
+# 정리하기 04
+# 제자리 연산
+a = 10
+a = a + 1
+print(a)
+
+# 정리하기 05
+a = 10
+a += 1  # a = a + 1
+print(a)
